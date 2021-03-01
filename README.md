@@ -1,9 +1,6 @@
-
-<p align="center" >
-  <h1 align="center" >dev.finance$<h1>
-  <p align="center">🚧 Under construction... 🚧</p>
-</p>
-
+<h1 align="center" >dev.finance$<h1>
+  <h5 align="center">🚧 Under construction... 🚧</h5>
+  
 <hr>
 
 ## How to run the app 
