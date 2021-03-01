@@ -1,5 +1,4 @@
 <h1 align="center" >dev.finance$<h1>
-<h6 align="center">🚧 Under construction... 🚧</h6>
 
 <hr>
 
