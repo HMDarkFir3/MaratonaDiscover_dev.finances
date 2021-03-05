@@ -10,7 +10,7 @@
 
 Inside a folder, run:
 ```bash
-$ git clone https://github.com/HMDarkFir3/NLW-04_move.it.git
+$ git clone https://github.com/HMDarkFir3/MaratonaDiscover_dev.finances.git
 ```
 <hr>
 
