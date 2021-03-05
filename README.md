@@ -1,4 +1,7 @@
-<h1 align="center" >dev.finance$<h1>
+<h1 align="center">
+  <img src="" />
+</h1>
+
 <p align="center">🚧 Under construction... 🚧</p>
   
 <hr>
@@ -17,6 +20,7 @@ The following tools were used in the construction of the project:
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 <hr>
 
@@ -33,3 +37,5 @@ The following tools were used in the construction of the project:
 This project is under the license [MIT](./LICENSE)
 <br>
 👋🏽 [Get in Touch!](https://www.linkedin.com/in/henrique-luís-oliveira-marques-3406361a7/)
+
+
