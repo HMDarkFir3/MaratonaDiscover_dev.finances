@@ -5,6 +5,7 @@
   --blue: #939cb3;
   --dark-blue: #363f5f;
   --green: #12a454;
+  --light-green: #3dd705;
   --dark-green: #2d4a22;
   --red: #e92929;
 }
@@ -14,6 +15,10 @@
   padding: 0;
 
   box-sizing: border-box;
+}
+
+html {
+  font-size: 93.75%;
 }
 
 body {
