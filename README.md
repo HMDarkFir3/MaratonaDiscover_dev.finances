@@ -32,7 +32,7 @@ DevFinance é um aplicativo para finanças, entrada e saída de dinheiro 💰.
 git clone https://github.com/HMDarkFir3/MaratonaDiscover_dev.finances.git
 ```
 
-<hr>
+---
 
 ## 🚀 Tecnologias Utilizadas
  
