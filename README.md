@@ -2,22 +2,32 @@
   <img src="https://user-images.githubusercontent.com/65872394/110146547-775df480-7db9-11eb-914e-b6702075d1af.png" />
 </h1>
 
-<hr>
+<h1 align="center">
+  🚧 Em Construção... 🚧
+</h1>
 
-## Application Demo 
-[Click here.](https://devfinances-rose.vercel.app)
+<p align="center" >
+  <a href="https://devfinances-rose.vercel.app">Demonstração da Aplicação</a>
+</p>
   
 <hr>
 
-## How to run the app 
+## 📋 Sobre
+DevFinance é um aplicativo para finanças, entrada e saída de dinheiro 💰.
 
-Inside a folder, run:
-```bash
-$ git clone https://github.com/HMDarkFir3/MaratonaDiscover_dev.finances.git
-```
 <hr>
 
-## Technologies 
+## 📂 Como rodar o projeto
+
+```bash
+#  Clone o repositório:
+git clone https://github.com/HMDarkFir3/NLW-04_move.it.git
+
+```
+
+<hr>
+
+## 🚀 Tecnologias Utilizadas
  
 The following tools were used in the construction of the project:
 
@@ -27,7 +37,7 @@ The following tools were used in the construction of the project:
 
 <hr>
 
-## Author 
+## 🧑 Autor
 
 <img style="border-radius: 50%;" src="https://github.com/HMDarkFir3.png" width="100px;" alt=""/>
 <h4>Henrique Luís Oliveira Marques</h4>
@@ -36,9 +46,9 @@ The following tools were used in the construction of the project:
 
 <hr>
 
-## License
-This project is under the license [MIT](./LICENSE)
+## 📝 Licença
+Este projeto esta sobe a licença MIT. Veja a [LICENÇA](./LICENSE) para saber mais. 
 <br>
-👋🏽 [Get in Touch!](https://www.linkedin.com/in/henrique-luís-oliveira-marques-3406361a7/)
+👋🏽 [Entre em contato!](https://www.linkedin.com/in/henrique-luís-oliveira-marques-3406361a7/)
 
 
