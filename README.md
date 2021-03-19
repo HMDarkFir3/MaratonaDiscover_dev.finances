@@ -10,12 +10,20 @@
   <a href="https://devfinances-rose.vercel.app">Demonstração da Aplicação</a>
 </p>
   
-<hr>
+---
 
 ## 📋 Sobre
 DevFinance é um aplicativo para finanças, entrada e saída de dinheiro 💰.
 
-<hr>
+---
+
+## ⚙️ Funcionalidades
+
+- [x] Adicionar entrada ou saída de dinheiro.
+- [x] Valor de entrada ou saída.
+- [x] Data que ocorreu.
+  
+---
 
 ## 📂 Como rodar o projeto
 
@@ -34,7 +42,7 @@ The following tools were used in the construction of the project:
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-<hr>
+---
 
 ## 💪 Como contribuir para o projeto
 
@@ -44,7 +52,7 @@ The following tools were used in the construction of the project:
 4. Envie as suas alterações: `git push origin my-feature`
 > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://github.com/firstcontributions/first-contributions)
 
-<hr>
+---
 
 ## 🧑 Autor
 
@@ -53,7 +61,7 @@ The following tools were used in the construction of the project:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-luís-oliveira-marques-3406361a7/)](https://www.linkedin.com/in/henrique-luís-oliveira-marques-3406361a7/) 
 
-<hr>
+---
 
 ## 📝 Licença
 Este projeto esta sobe a licença MIT. Veja a [LICENÇA](./LICENSE) para saber mais. 
