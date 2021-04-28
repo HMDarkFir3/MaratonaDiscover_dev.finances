@@ -50,7 +50,7 @@ git clone https://github.com/HMDarkFir3/MaratonaDiscover_dev.finances.git
 
 ## 🚀 Tecnologias Utilizadas
  
-The following tools were used in the construction of the project:
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
