@@ -11,17 +11,11 @@
 </p>
 
 <p align="center" >
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/top/hmdarkfir3/MaratonaDiscover_dev.finances" />
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/hmdarkfir3/MaratonaDiscover_dev.finances?style=for-the-badge">
   
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/hmdarkfir3/MaratonaDiscover_dev.finances" />
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/hmdarkfir3/MaratonaDiscover_dev.finances?style=for-the-badge">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/hmdarkfir3/MaratonaDiscover_dev.finances">
-  
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/hmdarkfir3/MaratonaDiscover_dev.finances">
-  
-  <img alt="Repository issues size" src="https://img.shields.io/github/issues/hmdarkfir3/MaratonaDiscover_dev.finances">
-  
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-blue.svg" />
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge" />
 </p>
   
 ---
