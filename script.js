@@ -115,7 +115,7 @@ const Utils = {
   formatAmount(amount) {
     amount = Number(amount) * 100;
 
-    return amount;
+    return Math.round(amount);
   },
 
   formatDate(date) {
@@ -176,9 +176,9 @@ const Form = {
   },
 
   clearFields() {
-    Form.description = "";
-    Form.amount = "";
-    Form.date = "";
+    Form.description.innerHTML = "";
+    Form.amount.innerHTML = "";
+    Form.date.innerHTMl = "";
   },
 
   submit(event) {
